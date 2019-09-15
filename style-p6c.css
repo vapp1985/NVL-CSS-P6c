@@ -1,0 +1,14 @@
+h1{
+    color: orange
+}
+
+[data-cantidad]{
+    color:orange; 
+}
+
+[data-meat]{
+    color:blue;
+}
+[data-meat="Huevos"]{
+    background-color: mediumslateblue;
+}
